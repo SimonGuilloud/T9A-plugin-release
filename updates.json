@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "t9a-hr-plugin@simon.guilloud": {
+      "updates": [
+        {
+          "version": "1.2.0",
+          "update_link": "https://github.com/SimonGuilloud/T9A-plugin-release/releases/download/v1.2.0/t9a-hr-plugin-1.2.0.xpi"
+        }
+      ]
+    }
+  }
+}
